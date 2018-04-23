@@ -51,14 +51,14 @@ a {
 /* Header
 ------------------------------------------------------------*/
 header .top {
-  background-image: url("http://i0.kym-cdn.com/photos/images/original/001/278/418/783.jpg");
+  background-image: url("../images/img_top.jpg");
   height: 500px;
   width: 100%;
   background-size: cover;
   background-position: center center; }
 @media (max-width: 768px) {
   header .top {
-    background-image: url("http://i0.kym-cdn.com/photos/images/original/001/278/418/783.jpg");
+    background-image: url("../images/img_top.jpg");
     height: 250px;
     width: 100%;
     background-size: cover;
